@@ -15,4 +15,6 @@ If you want to make your own level:
 	Enemy	    => @
 	Player	    => +
 	Air	    => You can use any type of symbol but '.' is prefered.
+
+  You can take a look to given "level.lvl" file for example level.
 	
